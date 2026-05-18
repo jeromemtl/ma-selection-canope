@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ma sélection Canopé - Réseau Canopé</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- En-tête -->
+        <header class="header">
+            <h1>Ma sélection Canopé</h1>
+            <p class="subtitle">Sélection de formation, animation, atelier... à distance</p>
+        </header>
+
+        <!-- Barre de contrôle -->
+        <div class="controls">
+            <div class="control-group">
+                <label for="month-select">📅 Mois :</label>
+                <select id="month-select">
+                    <option value="">-- Chargement des fichiers --</option>
+                </select>
+            </div>
+
+            <div class="control-group">
+                <label for="search-input">🔍 Rechercher :</label>
+                <input type="text" id="search-input" placeholder="Titre, type, formateur...">
+            </div>
+
+            <div class="control-group">
+                <label>👥 Formateurs :</label>
+                <div id="formateur-filters" class="formateur-filters">
+                    <!-- Les boutons filtres seront générés ici -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Statistiques -->
+        <div class="stats" id="stats">
+            <span>📊 <span id="formation-count">0</span> formation(s)</span>
+            <span>👥 <span id="formateur-count">0</span> formateur(s)</span>
+            <span>🎯 <span id="selection-count">0</span> sélection(s)</span>
+        </div>
+
+        <!-- Actions -->
+        <div class="actions">
+            <button id="export-csv" class="btn btn-green">📥 Exporter en CSV</button>
+            <button id="export-html" class="btn btn-blue">📄 Exporter en HTML</button>
+            <button id="reset-filters" class="btn btn-gray">🔄 Réinitialiser les filtres</button>
+        </div>
+
+        <!-- Grille des formations -->
+        <div id="formations-grid" class="formations-grid">
+            <div class="loading">Chargement des formations...</div>
+        </div>
+
+        <!-- Pied de page -->
+        <footer class="footer">
+            <p>Voir plus dans le <a href="https://ada-val.lab.reseau-canope.fr/" target="_blank">catalogue de formation</a></p>
+        </footer>
+    </div>
+
+    <script src="js/utils.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

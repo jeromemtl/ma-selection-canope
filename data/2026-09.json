@@ -1,0 +1,560 @@
+[
+  {
+    "titre": "Une discussion à visée philosophique à vivre pour susciter l’écoute empathique",
+    "type": "Webinaire",
+    "duree": "1 h 30",
+    "date": "lundi 14/09/26 - 16:30",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/32278/une-discussion-a-visee-philosophique-a-vivre-pour-susciter-lecoute-empathique",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-32278-281568.png",
+    "formateurs": [
+      "pascaline"
+    ]
+  },
+  {
+    "titre": "Les intelligences artificielles : usages dans sa pratique",
+    "type": "Atelier",
+    "duree": "2 h",
+    "date": "mercredi 16/09/26 - 11:30",
+    "modalite": "En présence, À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/les-intelligences-artificielles-usages-dans-sa-pratique.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-38378-439787.png",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
+    "titre": "Le débat mouvant pour développer l’esprit critique des élèves",
+    "type": "Webinaire",
+    "duree": "1 h 30",
+    "date": "mercredi 16/09/26 - 12:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/37696/le-debat-mouvant-pour-developper-lesprit-critique-des-eleves",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-37696-379883.png",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
+    "titre": "Intelligence artificielle et éducation aux médias et à l’information : enjeux et notions fondamentales",
+    "type": "Webinaire",
+    "duree": "1 h",
+    "date": "mercredi 16/09/26 - 15:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/intelligence-artificielle-et-education-aux-medias-et-a-linformation-enjeux-et-notions-fondamentales.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/bibliotheque/vignette_offre/FormationRC_576x342_03.jpg",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
+    "titre": "Bien préparer sa rentrée avec les ressources Canopé",
+    "type": "Atelier",
+    "duree": "1 h",
+    "date": "mercredi 16/09/26 - 16:00",
+    "modalite": "En présence, À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/bien-preparer-sa-rentree-avec-les-ressources-canope.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/bibliotheque/vignette_offre/FormationRC_576x342_02.jpg",
+    "formateurs": [
+      "natacha",
+      "pascaline",
+      "sara",
+      "guillaume"
+    ]
+  },
+  {
+    "titre": "Les compétences émotionnelles : focus sur « Identifier ses émotions et son stress »",
+    "type": "Webinaire",
+    "duree": "1 h 30",
+    "date": "mercredi 16/09/26 - 16:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/les-competences-emotionnelles-focus-sur-identifier-ses-emotions-et-son-stress.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-41686-723523.jpg",
+    "formateurs": [
+      "natacha"
+    ]
+  },
+  {
+    "titre": "Des clés pour utiliser l’intelligence artificielle de manière éthique et réfléchie",
+    "type": "Webinaire",
+    "duree": "1 h",
+    "date": "mercredi 16/09/26 - 16:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/39355/des-cles-pour-utiliser-lintelligence-artificielle-de-maniere-ethique-et-reflechie",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-39355-528575.png",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
+    "titre": "Premiers pas avec l'intelligence artificielle générative en contexte scolaire",
+    "type": "Webinaire",
+    "duree": "3 h",
+    "date": "mercredi 16/09/26 - 16:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "École élémentaire, Collège, Lycée général et technologique, Lycée professionnel",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/premiers-pas-avec-lintelligence-artificielle-generative-en-contexte-scolaire.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/bibliotheque/vignette_offre/FormationRC_576x342_03.jpg",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
+    "titre": "Les aires éducatives : engager les élèves vers la transition écologique",
+    "type": "Webinaire",
+    "duree": "1 h",
+    "date": "mercredi 16/09/26 - 16:30",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/33857/les-aires-educatives-engager-les-eleves-vers-la-transition-ecologique",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-33857-88471.png",
+    "formateurs": [
+      "sara"
+    ]
+  },
+  {
+    "titre": "Littérature pour adolescents : la rentrée littéraire",
+    "type": "Webinaire",
+    "duree": "1 h 30",
+    "date": "mercredi 16/09/26 - 17:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Collège, Lycée général et technologique",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/litterature-pour-adolescents-la-rentree-litteraire.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/bibliotheque/vignette_offre/FormationRC_576x342_03.jpg",
+    "formateurs": [
+      "natacha"
+    ]
+  },
+  {
+    "titre": "La ludopédagogie au service de l’intégration des savoirs",
+    "type": "Webinaire",
+    "duree": "1 h 30",
+    "date": "mercredi 16/09/26 - 17:30",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/34258/la-ludopedagogie-au-service-de-lintegration-des-savoirs",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-34258-525453.jpg",
+    "formateurs": [
+      "natacha"
+    ]
+  },
+  {
+    "titre": "L’accompagnement des écodélégués : des repères pour mobiliser et motiver",
+    "type": "Webinaire",
+    "duree": "1 h 30",
+    "date": "jeudi 17/09/26 - 19:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/40197/laccompagnement-des-ecodelegues-des-reperes-pour-mobiliser-et-motiver",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-40197-613895.png",
+    "formateurs": [
+      "sara"
+    ]
+  },
+  {
+    "titre": "Santé mentale : approche globale et systémique",
+    "type": "Webinaire",
+    "duree": "1 h 30",
+    "date": "jeudi 17/09/26 - 19:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/sante-mentale-approche-globale-et-systemique.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/bibliotheque/vignette_offre/FormationRC_576x342_03.jpg",
+    "formateurs": [
+      "guillaume",
+      "natacha",
+      "sara",
+      "pascaline"
+    ]
+  },
+  {
+    "titre": "Construction et déroulement d'une séance pédagogique",
+    "type": "Webinaire",
+    "duree": "1 h 30",
+    "date": "vendredi 18/09/26 - 16:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Collège, Lycée général et technologique",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/41500/construction-et-deroulement-dune-seance-pedagogique",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-41500-716126.png",
+    "formateurs": [
+      "natacha"
+    ]
+  },
+  {
+    "titre": "Nature et éducation : un duo gagnant",
+    "type": "Webinaire",
+    "duree": "1 h",
+    "date": "lundi 21/09/26 - 19:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/nature-et-education-un-duo-gagnant.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-37830-574280.jpg",
+    "formateurs": [
+      "sara"
+    ]
+  },
+  {
+    "titre": "Génération d'images et intelligence artificielle dans sa pratique professionnelle",
+    "type": "Webinaire",
+    "duree": "1 h",
+    "date": "mardi 22/09/26 - 16:30",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/36979/generation-dimages-et-intelligence-artificielle-dans-sa-pratique-professionnelle",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-36979-339798.png",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
+    "titre": "Intelligence artificielle : comprendre, s'outiller et échanger",
+    "type": "Atelier",
+    "duree": "1 h 30",
+    "date": "mardi 22/09/26 - 18:30",
+    "modalite": "En présence, À distance, À distance, en direct",
+    "niveau": "École élémentaire, Collège, Lycée général et technologique, Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/intelligence-artificielle-comprendre-soutiller-et-echanger.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-24941-731969.jpg",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
+    "titre": "Citoyenneté numérique et intelligence artificielle",
+    "type": "Webinaire",
+    "duree": "1 h 30",
+    "date": "mercredi 23/09/26 - 12:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/citoyennete-numerique-et-intelligence-artificielle.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/bibliotheque/vignette_offre/FormationRC_576x342_03.jpg",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
+    "titre": "Les pictogrammes : un outil au service de l'inclusion pour le 1er degré",
+    "type": "Webinaire",
+    "duree": "1 h 30",
+    "date": "mercredi 23/09/26 - 12:30",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/38306/les-pictogrammes-un-outil-au-service-de-linclusion-pour-le-1er-degre",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-38306-516607.png",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
+    "titre": "Les espaces documentaires : des espaces de vie",
+    "type": "Webinaire",
+    "duree": "2 h",
+    "date": "mercredi 23/09/26 - 16:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Collège, Lycée général et technologique, Lycée professionnel",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/les-espaces-documentaires-des-espaces-de-vie.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-40579-710249.png",
+    "formateurs": [
+      "natacha"
+    ]
+  },
+  {
+    "titre": "Intelligence artificielle : la rédaction de prompts efficaces",
+    "type": "Atelier",
+    "duree": "2 h",
+    "date": "mercredi 23/09/26 - 16:00",
+    "modalite": "",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/intelligence-artificielle-la-redaction-de-prompts-efficaces.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-39307-667900.jpg",
+    "formateurs": [
+      "guillaume",
+      "pascaline",
+      "natacha",
+      "sara"
+    ]
+  },
+  {
+    "titre": "Esprit critique es-tu là ?",
+    "type": "Webinaire",
+    "duree": "2 h",
+    "date": "mercredi 23/09/26 - 16:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://valeurs-de-la-republique.reseau-canope.fr/tous-les-themes/decouvrir/service/esprit-critique-es-tu-la",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-28162-291775.png",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
+    "titre": "Premiers pas en ludopédagogie : les concepts clés",
+    "type": "Webinaire",
+    "duree": "1 h",
+    "date": "mercredi 23/09/26 - 16:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/40074/premiers-pas-en-ludopedagogie-les-concepts-cles",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-40074-605689.png",
+    "formateurs": [
+      "natacha"
+    ]
+  },
+  {
+    "titre": "Agent conversationnel personnalisé au service de l'enseignement",
+    "type": "Webinaire",
+    "duree": "1 h 30",
+    "date": "mercredi 23/09/26 - 16:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/agent-conversationnel-personnalise-au-service-de-lenseignement.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-41436-714102.png",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
+    "titre": "La Playdagogie : le jeu sportif au service du vivre-ensemble, de la santé et des savoirs fondamentaux",
+    "type": "Webinaire",
+    "duree": "1 h",
+    "date": "mercredi 23/09/26 - 17:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/la-playdagogie-le-jeu-sportif-au-service-du-vivre-ensemble-de-la-sante-et-des-savoirs-fondamentaux.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-41934-724368.png",
+    "formateurs": [
+      "natacha"
+    ]
+  },
+  {
+    "titre": "Révision d’une leçon à l’aide d’un sketchnote",
+    "type": "Webinaire",
+    "duree": "1 h 30",
+    "date": "mercredi 23/09/26 - 17:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Collège, Lycée général et technologique",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/30646/revision-dune-lecon-a-laide-dun-sketchnote",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-30646-604180.png",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
+    "titre": "La création de quiz avec l’intelligence artificielle pour évaluer",
+    "type": "Webinaire",
+    "duree": "1 h 30",
+    "date": "mercredi 23/09/26 - 17:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/37542/la-creation-de-quiz-avec-lintelligence-artificielle-pour-evaluer",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-37542-363211.png",
+    "formateurs": [
+      "guillaume",
+      "pascaline",
+      "natacha",
+      "sara"
+    ]
+  },
+  {
+    "titre": "L’intelligence artificielle en recherche et en formation : un regard rétrospectif",
+    "type": "Conférence",
+    "duree": "1 h 30",
+    "date": "mardi 29/09/26 - 19:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/pratiques-enseignantes-et-apports-de-la-recherche-sur-lia.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/bibliotheque/vignette_offre/FormationRC_576x342_04.jpg",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
+    "titre": "Premiers pas en ludopédagogie en maternelle : les concepts clés",
+    "type": "Webinaire",
+    "duree": "1 h",
+    "date": "mardi 29/09/26 - 19:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "École maternelle",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/40190/premiers-pas-en-ludopedagogie-en-maternelle-les-concepts-cles",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-40190-607324.png",
+    "formateurs": [
+      "natacha"
+    ]
+  },
+  {
+    "titre": "Communauté de pratique « Faire Classe Dehors » en Aveyron",
+    "type": "Webinaire",
+    "duree": "1 h 30",
+    "date": "mardi 29/09/26 - 19:10",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/communaute-de-pratique-faire-classe-dehors-en-aveyron.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-40419-630072.jpg",
+    "formateurs": [
+      "sara"
+    ]
+  },
+  {
+    "titre": "Classe dehors : premiers pas vers un projet pédagogique à l'école primaire",
+    "type": "Atelier",
+    "duree": "2 h",
+    "date": "mercredi 30/09/26 - 11:45",
+    "modalite": "",
+    "niveau": "École maternelle, École élémentaire",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/classe-dehors-premiers-pas-vers-un-projet-pedagogique-a-lecole-primaire.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/bibliotheque/vignette_offre/FormationRC_576x342_02.jpg",
+    "formateurs": [
+      "sara"
+    ]
+  },
+  {
+    "titre": "Enjeux éthiques des intelligences artificielles génératives dans l’éducation aux médias et à l’information",
+    "type": "Webinaire",
+    "duree": "1 h",
+    "date": "mercredi 30/09/26 - 15:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/enjeux-ethiques-des-intelligences-artificielles-generatives-dans-leducation-aux-medias-et-a-linformation.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/bibliotheque/vignette_offre/FormationRC_576x342_03.jpg",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
+    "titre": "Café IA : échanges et découvertes autour de l'intelligence artificielle",
+    "type": "Atelier",
+    "duree": "2 h",
+    "date": "mercredi 30/09/26 - 15:30",
+    "modalite": "En présence, À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/cafeia-participez-a-un-moment-dechanges-et-de-decouvertes-autour-de-lintelligence-artificielle.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-38216-589157.jpg",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
+    "titre": "Des outils pour la création d'escape-games numériques",
+    "type": "Webinaire",
+    "duree": "1 h",
+    "date": "mercredi 30/09/26 - 16:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/des-outils-pour-la-creation-descape-games-numeriques.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-39398-534790.jpg",
+    "formateurs": [
+      "natacha"
+    ]
+  },
+  {
+    "titre": "Les élèves plurilingues : repères pour une pédagogie inclusive",
+    "type": "Webinaire",
+    "duree": "2 h",
+    "date": "mercredi 30/09/26 - 16:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Collège, Lycée général et technologique",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/les-eleves-plurilingues-reperes-pour-une-pedagogie-inclusive.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/bibliotheque/vignette_offre/FormationRC_576x342_01.jpg",
+    "formateurs": [
+      "pascaline"
+    ]
+  },
+  {
+    "titre": "Les étapes clés d’une séance ludopédagogique",
+    "type": "Formation",
+    "duree": "1 h 30",
+    "date": "mercredi 30/09/26 - 16:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/40628/les-etapes-cles-dune-seance-ludopedagogique",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-40628-674899.png",
+    "formateurs": [
+      "natacha"
+    ]
+  },
+  {
+    "titre": "Data detox : faire face à la collecte des données dans notre vie numérique",
+    "type": "Atelier",
+    "duree": "2 h",
+    "date": "mercredi 30/09/26 - 16:00",
+    "modalite": "",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/data-detox-faire-face-a-la-collecte-des-donnees-dans-notre-vie-numerique.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/bibliotheque/vignette_offre/FormationRC_576x342_02.jpg",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
+    "titre": "La Flamme de l’Egalité : un concours pour la mémoire de l’esclavage",
+    "type": "Webinaire",
+    "duree": "1 h 15",
+    "date": "mercredi 30/09/26 - 16:30",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "École élémentaire, Collège, Lycée général et technologique",
+    "difficulte": "",
+    "lien": "https://valeurs-de-la-republique.reseau-canope.fr/tous-les-themes/decouvrir/service/la-flamme-de-legalite-un-concours-pour-la-memoire-de-lesclavage",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-29467-428731.png",
+    "formateurs": [
+      "pascaline"
+    ]
+  },
+  {
+    "titre": "Semaine du goût : le bien manger par le jeu sportif",
+    "type": "Webinaire",
+    "duree": "1 h",
+    "date": "mercredi 30/09/26 - 17:00",
+    "modalite": "À distance, À distance, en direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/semaine-du-gout-le-bien-manger-par-le-jeu-sportif.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-41935-724411.png",
+    "formateurs": [
+      "natacha"
+    ]
+  }
+]

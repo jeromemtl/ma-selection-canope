@@ -85,7 +85,7 @@ async function populateMonthSelector() {
             option.textContent = nomMois + ' ' + annee;
             option.setAttribute('data-mois', moisAnnee);
             
-            // Priorité : 1. Mois dans l'URL, 2. Mois actuel, 3. Dernier fichier
+            // Priorité : 1. Mois dans l'URL, 2. Mois actuel
             if (moisFromURL && moisAnnee === moisFromURL) {
                 selectedIndex = i;
                 selectedValue = option.value;
@@ -99,21 +99,34 @@ async function populateMonthSelector() {
             select.appendChild(option);
         }
         
-        // Si aucun mois n'a été sélectionné, prendre le dernier (le plus récent)
-        if (selectedIndex === -1 && select.options.length > 1) {
-            select.options[select.options.length - 1].selected = true;
-            selectedValue = select.options[select.options.length - 1].value;
-            const selectedMois = select.options[select.options.length - 1].getAttribute('data-mois');
-            updateURLWithMois(selectedMois);
-        } else if (selectedValue) {
-            // Mettre à jour l'URL avec le mois sélectionné
-            const selectedMois = select.options[selectedIndex].getAttribute('data-mois');
-            updateURLWithMois(selectedMois);
+        // Si le mois de l'URL n'a pas été trouvé, on le signale SANS écraser l'URL
+        if (moisFromURL && selectedIndex === -1) {
+            console.warn('[App] Aucun fichier pour le mois demandé dans l\'URL :', moisFromURL);
+            document.getElementById('formations-grid').innerHTML =
+                '<div class="no-results">📭 Aucune donnée pour le mois <strong>' + moisFromURL +
+                '</strong>.<br>Choisissez un autre mois dans le sélecteur ci-dessus.</div>';
+            select.value = '';
+            return;
         }
+        
+        // Cas où l'URL n'a pas de mois : on sélectionne le mois actuel ou le dernier fichier
+        if (!moisFromURL) {
+            if (selectedIndex === -1 && select.options.length > 1) {
+                // Prendre le dernier (le plus récent)
+                select.options[select.options.length - 1].selected = true;
+                selectedValue = select.options[select.options.length - 1].value;
+                const selectedMois = select.options[select.options.length - 1].getAttribute('data-mois');
+                updateURLWithMois(selectedMois);
+            } else if (selectedValue) {
+                const selectedMois = select.options[selectedIndex].getAttribute('data-mois');
+                updateURLWithMois(selectedMois);
+            }
+        }
+        // Si moisFromURL existe ET a été trouvé : on ne touche pas à l'URL (elle est déjà correcte)
         
         if (select.value) {
             chargerMoisSelectionne(select.value);
-        } else {
+        } else if (!moisFromURL) {
             document.getElementById('formations-grid').innerHTML = '<div class="no-results">📭 Aucun fichier JSON disponible dans le dossier data/</div>';
         }
         

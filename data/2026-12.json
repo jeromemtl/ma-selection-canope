@@ -1,11 +1,39 @@
 [
   {
+    "titre": "Promotion de la santé mentale des jeunes : contexte, besoins, enjeux et ressources",
+    "type": "Atelier",
+    "duree": "1h",
+    "date": "mardi 01/12/26 - 18h30",
+    "modalite": "En présence, À distance, En direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/promotion-de-la-sante-mentale-des-jeunes-contexte-besoins-enjeux-et-ressources",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-42053-729993.png",
+    "formateurs": [
+      "pascaline"
+    ]
+  },
+  {
+    "titre": "Les neuromythes en classe : le cerveau et les écrans",
+    "type": "Webinaire",
+    "duree": "1h30",
+    "date": "mardi 01/12/26 - 19h00",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/39822/les-neuromythes-en-classe-le-cerveau-et-les-ecrans",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-39822-576752.png",
+    "formateurs": [
+      "natacha"
+    ]
+  },
+  {
     "titre": "La ludopédagogie au service de l’intégration des savoirs",
     "type": "Webinaire",
-    "duree": "",
+    "duree": "1h30",
     "date": "mardi 01/12/26 - 20h00",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/34258/la-ludopedagogie-au-service-de-lintegration-des-savoirs",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-34258-525453.jpg",
@@ -16,10 +44,10 @@
   {
     "titre": "Vers une meilleure compréhension du handicap à l’école : enjeux et solutions",
     "type": "Webinaire",
-    "duree": "",
-    "date": "mardi 01/12/26 - 20h00  (2 autres dates)",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h",
+    "duree": "1h",
+    "date": "mardi 01/12/26 - 20h00",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/38074/vers-une-meilleure-comprehension-du-handicap-a-lecole-enjeux-et-solutions",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-38074-392941.png",
@@ -28,26 +56,12 @@
     ]
   },
   {
-    "titre": "Mon lopin de mer : un projet éducatif pour la préservation des océans",
-    "type": "Atelier",
-    "duree": "",
-    "date": "mardi 01/12/26 - 20h00",
-    "modalite": "En présence, À distance, En direct Niveau : École élémentaire, Collège, Lycée général et technologique ⒼⓃⓅⓈ S'inscrire  Atelier 1 h 30",
-    "niveau": "École élémentaire, Collège, Lycée général et technologique ⒼⓃⓅⓈ S'inscrire  Atelier 1 h 30",
-    "difficulte": "",
-    "lien": "https://www.reseau-canope.fr/service/mon-lopin-de-mer-un-projet-educatif-pour-la-preservation-des-oceans",
-    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-35155-771882.jpg",
-    "formateurs": [
-      "sara"
-    ]
-  },
-  {
     "titre": "Enjeux et prévention des violences sexuelles faites aux enfants",
     "type": "Webinaire",
-    "duree": "",
-    "date": "mercredi 02/12/26 - 13h00  (2 autres dates)",
-    "modalite": "À distance, En direct Niveau : École maternelle, École élémentaire, Collège, Lycée général et technologique, Lycée professionnel ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h",
-    "niveau": "École maternelle, École élémentaire, Collège, Lycée général et technologique, Lycée professionnel ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h",
+    "duree": "1h",
+    "date": "mercredi 02/12/26 - 13h00",
+    "modalite": "À distance, En direct",
+    "niveau": "École maternelle, École élémentaire, Collège, Lycée général et technologique, Lycée professionnel",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/40245/enjeux-et-prevention-des-violences-sexuelles-faites-aux-enfants",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-40245-613884.png",
@@ -56,40 +70,12 @@
     ]
   },
   {
-    "titre": "L'art du détail : décoder les gestes professionnels en maternelle",
-    "type": "Webinaire",
-    "duree": "",
-    "date": "mercredi 02/12/26 - 13h30  (1 autre date)",
-    "modalite": "À distance, En direct Niveau : École maternelle ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "École maternelle ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "difficulte": "",
-    "lien": "https://www.canotech.fr/s/36792/lart-du-detail-decoder-les-gestes-professionnels-en-maternelle",
-    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-36792-317220.png",
-    "formateurs": [
-      "natacha"
-    ]
-  },
-  {
-    "titre": "Des albums et des jeux pour développer les compétences émotionnelles",
-    "type": "Webinaire",
-    "duree": "",
-    "date": "mercredi 02/12/26 - 17h00  (2 autres dates)",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "difficulte": "",
-    "lien": "https://www.canotech.fr/s/38464/des-albums-et-des-jeux-pour-developper-les-competences-emotionnelles",
-    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-38464-439806.png",
-    "formateurs": [
-      "natacha"
-    ]
-  },
-  {
     "titre": "Sensibilisation aux codes de la bande dessinée",
     "type": "Atelier",
-    "duree": "",
-    "date": "mercredi 02/12/26 - 17h00  (1 autre date)",
+    "duree": "2h",
+    "date": "mercredi 02/12/26 - 17h00",
     "modalite": "",
-    "niveau": "Collège, Lycée général et technologique, Lycée professionnel ⒼⓃⓅⓈ S'inscrire  Atelier 2 h",
+    "niveau": "Collège, Lycée général et technologique, Lycée professionnel",
     "difficulte": "",
     "lien": "https://www.reseau-canope.fr/service/sensibilisation-aux-codes-de-la-bande-dessinee.html",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/bibliotheque/vignette_offre/FormationRC_576x342_02.jpg",
@@ -98,12 +84,26 @@
     ]
   },
   {
+    "titre": "Des albums et des jeux pour développer les compétences émotionnelles",
+    "type": "Webinaire",
+    "duree": "1h30",
+    "date": "mercredi 02/12/26 - 17h00",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/38464/des-albums-et-des-jeux-pour-developper-les-competences-emotionnelles",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-38464-439806.png",
+    "formateurs": [
+      "natacha"
+    ]
+  },
+  {
     "titre": "Atteintes à la laïcité et contestations : comprendre et agir.",
     "type": "Webinaire",
-    "duree": "",
+    "duree": "1h30",
     "date": "mercredi 02/12/26 - 17h00",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur Les valeurs de la République Webinaire 1 h 30",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur Les valeurs de la République Webinaire 1 h 30",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://valeurs-de-la-republique.reseau-canope.fr/tous-les-themes/decouvrir/service/atteintes-a-la-laicite-et-contestations-comprendre-et-agir",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-42643-772650.png",
@@ -112,26 +112,12 @@
     ]
   },
   {
-    "titre": "Les intelligences artificielles : usages dans sa pratique",
-    "type": "Atelier",
-    "duree": "",
-    "date": "mercredi 02/12/26 - 17h00",
-    "modalite": "En présence, À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire  Atelier 2 h",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire  Atelier 2 h",
-    "difficulte": "",
-    "lien": "https://www.reseau-canope.fr/service/les-intelligences-artificielles-usages-dans-sa-pratique",
-    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-38378-439787.png",
-    "formateurs": [
-      "guillaume"
-    ]
-  },
-  {
     "titre": "Premiers pas dans l’écriture d’un récit interactif",
     "type": "Webinaire",
-    "duree": "",
+    "duree": "1h30",
     "date": "mercredi 02/12/26 - 17h00",
-    "modalite": "À distance, En direct Niveau : École élémentaire, Collège, Lycée général et technologique ⒼⓃⓅⓈ S'inscrire  Webinaire 1 h 30",
-    "niveau": "École élémentaire, Collège, Lycée général et technologique ⒼⓃⓅⓈ S'inscrire  Webinaire 1 h 30",
+    "modalite": "À distance, En direct",
+    "niveau": "École élémentaire, Collège, Lycée général et technologique",
     "difficulte": "",
     "lien": "https://www.reseau-canope.fr/service/premiers-pas-dans-lecriture-dun-recit-interactif",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-39025-778092.jpg",
@@ -140,12 +126,26 @@
     ]
   },
   {
+    "titre": "Les intelligences artificielles : usages dans sa pratique",
+    "type": "Atelier",
+    "duree": "2h",
+    "date": "mercredi 02/12/26 - 17h00",
+    "modalite": "En présence, À distance, En direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/les-intelligences-artificielles-usages-dans-sa-pratique",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-38378-439787.png",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
     "titre": "Littérature pour adolescents : les lectures de l'imaginaire",
     "type": "Webinaire",
-    "duree": "",
+    "duree": "1h30",
     "date": "mercredi 02/12/26 - 18h00",
-    "modalite": "À distance, En direct Niveau : Collège, Lycée général et technologique ⒼⓃⓅⓈ S'inscrire  Webinaire 1 h 30",
-    "niveau": "Collège, Lycée général et technologique ⒼⓃⓅⓈ S'inscrire  Webinaire 1 h 30",
+    "modalite": "À distance, En direct",
+    "niveau": "Collège, Lycée général et technologique",
     "difficulte": "",
     "lien": "https://www.reseau-canope.fr/service/litterature-pour-adolescents-les-lectures-de-limaginaire",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/bibliotheque/vignette_offre/FormationRC_576x342_03.jpg",
@@ -156,10 +156,10 @@
   {
     "titre": "Création de podcast avec les élèves",
     "type": "Atelier",
-    "duree": "",
-    "date": "mercredi 02/12/26 - 19h00  (2 autres dates)",
+    "duree": "2h",
+    "date": "mercredi 02/12/26 - 19h00",
     "modalite": "",
-    "niveau": "Collège ⒼⓃⓅⓈ S'inscrire  Atelier 2 h",
+    "niveau": "Collège",
     "difficulte": "",
     "lien": "https://www.reseau-canope.fr/service/creation-de-podcast-avec-les-eleves.html",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/bibliotheque/vignette_offre/FormationRC_576x342_02.jpg",
@@ -170,10 +170,10 @@
   {
     "titre": "L'intelligence artificielle et les modèles de langage",
     "type": "Webinaire",
-    "duree": "",
+    "duree": "1h30",
     "date": "jeudi 03/12/26 - 13h30",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire  Webinaire 1 h 30",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire  Webinaire 1 h 30",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.reseau-canope.fr/service/lintelligence-artificielle-et-les-modeles-de-langage.html",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-40919-674100.png",
@@ -184,10 +184,10 @@
   {
     "titre": "Premiers repères sur les nouveaux programmes EVARS",
     "type": "Webinaire",
-    "duree": "",
-    "date": "jeudi 03/12/26 - 16h00  (1 autre date)",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 15",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 15",
+    "duree": "1h15",
+    "date": "jeudi 03/12/26 - 16h00",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/39937/premiers-reperes-sur-les-nouveaux-programmes-evars",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-39937-589168.png",
@@ -196,12 +196,26 @@
     ]
   },
   {
+    "titre": "Santé mentale des jeunes et intelligence artificielle : comprendre pour agir",
+    "type": "Webinaire",
+    "duree": "1h",
+    "date": "jeudi 03/12/26 - 17h00",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/sante-mentale-des-jeunes-et-intelligence-artificielle-comprendre-pour-agir",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-41471-717126.png",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
     "titre": "Des concepts essentiels pour l'éducation au développement durable",
     "type": "Webinaire",
-    "duree": "",
-    "date": "jeudi 03/12/26 - 17h00  (1 autre date)",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
+    "duree": "1h30",
+    "date": "jeudi 03/12/26 - 17h00",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/33067/des-concepts-essentiels-pour-leducation-au-developpement-durable",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-33067-82504.png",
@@ -212,10 +226,10 @@
   {
     "titre": "Des escape games numériques au service des apprentissages",
     "type": "Webinaire",
-    "duree": "",
+    "duree": "1h",
     "date": "jeudi 03/12/26 - 20h00",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/35591/des-escape-games-numeriques-au-service-des-apprentissages",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-35591-525456.jpg",
@@ -226,10 +240,10 @@
   {
     "titre": "Programmes EVAR : l’intimité en maternelle",
     "type": "Webinaire",
-    "duree": "",
-    "date": "jeudi 03/12/26 - 20h00  (1 autre date)",
-    "modalite": "À distance, En direct Niveau : École maternelle ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "École maternelle ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
+    "duree": "1h30",
+    "date": "jeudi 03/12/26 - 20h00",
+    "modalite": "À distance, En direct",
+    "niveau": "École maternelle",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/39918/programmes-evar-lintimite-en-maternelle",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-39918-581702.png",
@@ -238,12 +252,40 @@
     ]
   },
   {
+    "titre": "Esprit critique et greenwashing : énergies",
+    "type": "Webinaire",
+    "duree": "1h30",
+    "date": "jeudi 03/12/26 - 20h00",
+    "modalite": "À distance, En direct",
+    "niveau": "École élémentaire, Collège, Lycée général et technologique",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/38844/esprit-critique-et-greenwashing-energies",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-38844-642341.png",
+    "formateurs": [
+      "sara"
+    ]
+  },
+  {
+    "titre": "Communauté de pratique « Faire Classe Dehors » en Aveyron",
+    "type": "Webinaire",
+    "duree": "1h30",
+    "date": "jeudi 03/12/26 - 20h10",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.reseau-canope.fr/service/communaute-de-pratique-faire-classe-dehors-en-aveyron.html",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-40419-630072.jpg",
+    "formateurs": [
+      "sara"
+    ]
+  },
+  {
     "titre": "L' informatique débranchée pour aborder l'intelligence artificielle",
     "type": "Webinaire",
-    "duree": "",
+    "duree": "1h",
     "date": "jeudi 03/12/26 - 20h30",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/30507/l-informatique-debranchee-pour-aborder-lintelligence-artificielle",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-info-deb-ia-N-30507-743996.png",
@@ -252,26 +294,12 @@
     ]
   },
   {
-    "titre": "L'intelligence artificielle en éducation : des bases pour mieux comprendre",
-    "type": "Webinaire",
-    "duree": "",
-    "date": "lundi 07/12/26 - 17h00  (1 autre date)",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h",
-    "difficulte": "",
-    "lien": "https://www.canotech.fr/s/34761/lintelligence-artificielle-en-education-des-bases-pour-mieux-comprendre",
-    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-34761-185851.png",
-    "formateurs": [
-      "guillaume"
-    ]
-  },
-  {
     "titre": "Agent conversationnel personnalisé au service de l'enseignement",
     "type": "Webinaire",
-    "duree": "",
+    "duree": "1h30",
     "date": "lundi 07/12/26 - 17h00",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire  Webinaire 1 h 30",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire  Webinaire 1 h 30",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.reseau-canope.fr/service/agent-conversationnel-personnalise-au-service-de-lenseignement",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-41436-714102.png",
@@ -283,12 +311,26 @@
     ]
   },
   {
+    "titre": "L'intelligence artificielle en éducation : des bases pour mieux comprendre",
+    "type": "Webinaire",
+    "duree": "1h",
+    "date": "lundi 07/12/26 - 17h00",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/34761/lintelligence-artificielle-en-education-des-bases-pour-mieux-comprendre",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-34761-185851.png",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
     "titre": "La réalité virtuelle : usages pédagogiques des images à 360°",
     "type": "Webinaire",
-    "duree": "",
-    "date": "lundi 07/12/26 - 20h00  (3 autres dates)",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
+    "duree": "1h30",
+    "date": "lundi 07/12/26 - 20h00",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/34907/la-realite-virtuelle-usages-pedagogiques-des-images-a-360",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-34907-177673.png",
@@ -299,10 +341,10 @@
   {
     "titre": "L’alliance école-familles en maternelle face aux défis du numérique",
     "type": "Webinaire",
-    "duree": "",
-    "date": "lundi 07/12/26 - 20h00  (1 autre date)",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
+    "duree": "1h30",
+    "date": "lundi 07/12/26 - 20h00",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/40200/lalliance-ecole-familles-en-maternelle-face-aux-defis-du-numerique",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-40200-607317.png",
@@ -311,12 +353,40 @@
     ]
   },
   {
+    "titre": "Les lieux d’histoire et de mémoire : une entrée pour favoriser le vivre-ensemble et lutter contre le racisme et l’antisémitisme",
+    "type": "Webinaire",
+    "duree": "1h30",
+    "date": "lundi 07/12/26 - 20h00",
+    "modalite": "À distance, En direct",
+    "niveau": "Collège, Lycée général et technologique, Lycée professionnel",
+    "difficulte": "",
+    "lien": "https://valeurs-de-la-republique.reseau-canope.fr/tous-les-themes/decouvrir/service/les-lieux-dhistoire-et-de-memoire-une-entree-pour-favoriser-le-vivre-ensemble-et-lutter-contre-le-racisme-et-lantisemitisme",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/bibliotheque/vignette_offre/FormationRC_576x342_03.jpg",
+    "formateurs": [
+      "pascaline"
+    ]
+  },
+  {
+    "titre": "Les communs numériques en classe pour une culture participative",
+    "type": "Webinaire",
+    "duree": "1h30",
+    "date": "lundi 07/12/26 - 20h00",
+    "modalite": "À distance, En direct",
+    "niveau": "École élémentaire, Collège, Lycée général et technologique",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/27756/les-communs-numeriques-en-classe-pour-une-culture-participative",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-27756-590192.png",
+    "formateurs": [
+      "guillaume"
+    ]
+  },
+  {
     "titre": "Le podcast immersif : une nouvelle façon de s'engager dans les apprentissages",
     "type": "Webinaire",
-    "duree": "",
-    "date": "lundi 07/12/26 - 20h30  (3 autres dates)",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
+    "duree": "1h30",
+    "date": "lundi 07/12/26 - 20h30",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/39448/le-podcast-immersif-une-nouvelle-facon-de-sengager-dans-les-apprentissages",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-39448-549084.png",
@@ -327,10 +397,10 @@
   {
     "titre": "L'impact carbone de mon établissement scolaire : compréhension et réduction",
     "type": "Webinaire",
-    "duree": "",
-    "date": "mardi 08/12/26 - 19h00  (1 autre date)",
-    "modalite": "À distance, En direct Niveau : Collège, Lycée général et technologique ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "Collège, Lycée général et technologique ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
+    "duree": "1h30",
+    "date": "mardi 08/12/26 - 19h00",
+    "modalite": "À distance, En direct",
+    "niveau": "Collège, Lycée général et technologique",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/28261/limpact-carbone-de-mon-etablissement-scolaire-comprehension-et-reduction",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-28261-380218.png",
@@ -341,10 +411,10 @@
   {
     "titre": "Accessibilité universelle et lisibilité des supports d'apprentissage",
     "type": "Webinaire",
-    "duree": "",
-    "date": "mardi 08/12/26 - 20h30  (4 autres dates)",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
+    "duree": "1h30",
+    "date": "mardi 08/12/26 - 20h30",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/37313/accessibilite-universelle-et-lisibilite-des-supports-dapprentissage",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-37313-358637.png",
@@ -356,10 +426,10 @@
   {
     "titre": "Les étapes clés d’une séance ludopédagogique en maternelle",
     "type": "Webinaire",
-    "duree": "",
+    "duree": "1h30",
     "date": "mercredi 09/12/26 - 13h00",
-    "modalite": "À distance, En direct Niveau : École maternelle ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "École maternelle ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
+    "modalite": "À distance, En direct",
+    "niveau": "École maternelle",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/40627/les-etapes-cles-dune-seance-ludopedagogique-en-maternelle",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-40627-674900.png",
@@ -370,10 +440,10 @@
   {
     "titre": "Bruit, calme et silence en classe : repenser les conditions d’apprentissage",
     "type": "Conférence",
-    "duree": "",
+    "duree": "1h30",
     "date": "mercredi 09/12/26 - 17h00",
-    "modalite": "À distance, En direct Niveau : École maternelle, École élémentaire, Collège, Lycée général et technologique, Lycée professionnel ⒼⓃⓅⓈ S'inscrire sur CanoTech Conférence 1 h 30",
-    "niveau": "École maternelle, École élémentaire, Collège, Lycée général et technologique, Lycée professionnel ⒼⓃⓅⓈ S'inscrire sur CanoTech Conférence 1 h 30",
+    "modalite": "À distance, En direct",
+    "niveau": "École maternelle, École élémentaire, Collège, Lycée général et technologique, Lycée professionnel",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/42288/bruit-calme-et-silence-en-classe-repenser-les-conditions-dapprentissage",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-42288-747768.jpg",
@@ -384,10 +454,10 @@
   {
     "titre": "Convictions des élèves et cadre commun : les enjeux de la laïcité à l'école",
     "type": "Conférence",
-    "duree": "",
+    "duree": "1h30",
     "date": "mercredi 09/12/26 - 17h00",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire  Conférence 1 h 30",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire  Conférence 1 h 30",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.reseau-canope.fr/service/convictions-des-eleves-et-cadre-commun-les-enjeux-de-la-laicite-a-lecole",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-42665-774739.png",
@@ -396,26 +466,12 @@
     ]
   },
   {
-    "titre": "La cyberviolence : décrypter pour agir",
-    "type": "Webinaire",
-    "duree": "",
-    "date": "mercredi 09/12/26 - 18h30",
-    "modalite": "À distance, En direct Niveau : Collège, Lycée général et technologique ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "Collège, Lycée général et technologique ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "difficulte": "",
-    "lien": "https://www.canotech.fr/s/40544/la-cyberviolence-decrypter-pour-agir",
-    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-40544-671107.png",
-    "formateurs": [
-      "pascaline"
-    ]
-  },
-  {
     "titre": "Éducation au futur : sensibiliser et agir pour une alimentation durable",
     "type": "Webinaire",
-    "duree": "",
+    "duree": "1h",
     "date": "mercredi 09/12/26 - 18h30",
-    "modalite": "À distance, En direct Niveau : École maternelle, École élémentaire, Collège, Lycée général et technologique, Lycée professionnel ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h",
-    "niveau": "École maternelle, École élémentaire, Collège, Lycée général et technologique, Lycée professionnel ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h",
+    "modalite": "À distance, En direct",
+    "niveau": "École maternelle, École élémentaire, Collège, Lycée général et technologique, Lycée professionnel",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/40246/education-au-futur-sensibiliser-et-agir-pour-une-alimentation-durable",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-40246-615669.png",
@@ -424,26 +480,26 @@
     ]
   },
   {
-    "titre": "Collaboration et coopération en classe flexible",
+    "titre": "La cyberviolence : décrypter pour agir",
     "type": "Webinaire",
-    "duree": "",
+    "duree": "1h30",
     "date": "mercredi 09/12/26 - 18h30",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
+    "modalite": "À distance, En direct",
+    "niveau": "Collège, Lycée général et technologique",
     "difficulte": "",
-    "lien": "https://www.canotech.fr/s/42286/collaboration-et-cooperation-en-classe-flexible",
-    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-42286-770366.png",
+    "lien": "https://www.canotech.fr/s/40544/la-cyberviolence-decrypter-pour-agir",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-40544-671107.png",
     "formateurs": [
-      "sara"
+      "pascaline"
     ]
   },
   {
     "titre": "La sensibilisation au changement climatique en maternelle",
     "type": "Webinaire",
-    "duree": "",
-    "date": "mercredi 09/12/26 - 19h30  (1 autre date)",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
+    "duree": "1h30",
+    "date": "mercredi 09/12/26 - 19h30",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/39021/la-sensibilisation-au-changement-climatique-en-maternelle",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-39021-512531.png",
@@ -454,24 +510,24 @@
   {
     "titre": "Le traitement du changement climatique dans la littérature jeunesse",
     "type": "Webinaire",
-    "duree": "",
-    "date": "jeudi 10/12/26 - 15h00  (2 autres dates)",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
+    "duree": "1h30",
+    "date": "jeudi 10/12/26 - 15h00",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/33518/le-traitement-du-changement-climatique-dans-la-litterature-jeunesse",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-33518-200466.png",
     "formateurs": [
-      "sara"
+      "natacha"
     ]
   },
   {
     "titre": "Premiers pas en ludopédagogie : les concepts clés",
     "type": "Webinaire",
-    "duree": "",
-    "date": "jeudi 10/12/26 - 17h00  (1 autre date)",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h",
+    "duree": "1h",
+    "date": "jeudi 10/12/26 - 17h00",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/40074/premiers-pas-en-ludopedagogie-les-concepts-cles",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-40074-605689.png",
@@ -482,10 +538,10 @@
   {
     "titre": "Des outils pour la création d'escape-games numériques",
     "type": "Webinaire",
-    "duree": "",
-    "date": "jeudi 10/12/26 - 19h30  (1 autre date)",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire  Webinaire 1 h",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire  Webinaire 1 h",
+    "duree": "1h",
+    "date": "jeudi 10/12/26 - 19h30",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.reseau-canope.fr/service/des-outils-pour-la-creation-descape-games-numeriques.html",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-39398-534790.jpg",
@@ -494,12 +550,27 @@
     ]
   },
   {
+    "titre": "Utilisation de navigateurs internet pour rendre un contenu accessible",
+    "type": "Webinaire",
+    "duree": "1h",
+    "date": "jeudi 10/12/26 - 20h00",
+    "modalite": "À distance, En direct",
+    "niveau": "École élémentaire, Collège, Lycée général et technologique",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/37316/utilisation-de-navigateurs-internet-pour-rendre-un-contenu-accessible",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-37316-356064.png",
+    "formateurs": [
+      "pascaline",
+      "guillaume"
+    ]
+  },
+  {
     "titre": "L'informatique débranchée pour aborder l'apprentissage automatique",
     "type": "Webinaire",
-    "duree": "",
+    "duree": "1h",
     "date": "jeudi 10/12/26 - 20h00",
-    "modalite": "À distance, En direct Niveau : Collège, Lycée général et technologique ⒼⓃⓅⓈ S'inscrire  Webinaire 1 h",
-    "niveau": "Collège, Lycée général et technologique ⒼⓃⓅⓈ S'inscrire  Webinaire 1 h",
+    "modalite": "À distance, En direct",
+    "niveau": "Collège, Lycée général et technologique",
     "difficulte": "",
     "lien": "https://www.reseau-canope.fr/service/linformatique-debranchee-pour-aborder-lapprentissage-automatique.html",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/bibliotheque/vignette_offre/FormationRC_576x342_02.jpg",
@@ -508,26 +579,26 @@
     ]
   },
   {
-    "titre": "Utilisation de navigateurs internet pour rendre un contenu accessible",
+    "titre": "Le poster en classe : un appui pour développer la métacognition des élèves",
     "type": "Webinaire",
-    "duree": "",
-    "date": "jeudi 10/12/26 - 20h00  (2 autres dates)",
-    "modalite": "À distance, En direct Niveau : École élémentaire, Collège, Lycée général et technologique ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h",
-    "niveau": "École élémentaire, Collège, Lycée général et technologique ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h",
+    "duree": "1h",
+    "date": "jeudi 10/12/26 - 20h30",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
-    "lien": "https://www.canotech.fr/s/37316/utilisation-de-navigateurs-internet-pour-rendre-un-contenu-accessible",
-    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-37316-356064.png",
+    "lien": "https://www.canotech.fr/s/34551/le-poster-en-classe-un-appui-pour-developper-la-metacognition-des-eleves",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-34551-153308.png",
     "formateurs": [
-      "pascaline"
+      "sara"
     ]
   },
   {
     "titre": "Egalité et lutte contre le racisme et l’antisémitisme",
     "type": "Webinaire",
-    "duree": "",
+    "duree": "1h30",
     "date": "vendredi 11/12/26 - 14h00",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur Les valeurs de la République Webinaire 1 h 30",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur Les valeurs de la République Webinaire 1 h 30",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://valeurs-de-la-republique.reseau-canope.fr/tous-les-themes/decouvrir/service/egalite-et-lutte-contre-le-racisme-et-lantisemitisme",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-40127-593724.png",
@@ -536,27 +607,12 @@
     ]
   },
   {
-    "titre": "La relation famille-école : mieux la comprendre pour mieux coopérer",
-    "type": "Webinaire",
-    "duree": "",
-    "date": "vendredi 11/12/26 - 14h00",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h",
-    "difficulte": "",
-    "lien": "https://www.canotech.fr/s/32464/la-relation-famille-ecole-mieux-la-comprendre-pour-mieux-cooperer",
-    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-32464-81064.png",
-    "formateurs": [
-      "natacha",
-      "pascaline"
-    ]
-  },
-  {
     "titre": "L'écriture et la réalisation d'une histoire immersive en réalité virtuelle",
     "type": "Webinaire",
-    "duree": "",
-    "date": "lundi 14/12/26 - 20h00  (1 autre date)",
-    "modalite": "À distance, En direct Niveau : École élémentaire, Collège ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "École élémentaire, Collège ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
+    "duree": "1h30",
+    "date": "lundi 14/12/26 - 20h00",
+    "modalite": "À distance, En direct",
+    "niveau": "École élémentaire, Collège",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/36451/lecriture-et-la-realisation-dune-histoire-immersive-en-realite-virtuelle",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-36451-360086.png",
@@ -565,12 +621,26 @@
     ]
   },
   {
+    "titre": "Création narrative par la bande dessinée numérique",
+    "type": "Webinaire",
+    "duree": "1h30",
+    "date": "lundi 14/12/26 - 20h30",
+    "modalite": "À distance, En direct",
+    "niveau": "École maternelle, École élémentaire, Collège, Lycée général et technologique, Lycée professionnel, Tous niveaux",
+    "difficulte": "",
+    "lien": "https://www.canotech.fr/s/25912/la-realisation-de-bandes-dessinees-numeriques",
+    "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-25912-774371.png",
+    "formateurs": [
+      "natacha"
+    ]
+  },
+  {
     "titre": "Moins de bruit, plus d'attention : stratégies pour un climat sonore apaisé en classe",
     "type": "Webinaire",
-    "duree": "",
-    "date": "mercredi 16/12/26 - 13h00  (1 autre date)",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
+    "duree": "1h30",
+    "date": "mercredi 16/12/26 - 13h00",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/40029/moins-de-bruit-plus-dattention-strategies-pour-un-climat-sonore-apaise-en-classe",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-40029-589925.png",
@@ -581,10 +651,10 @@
   {
     "titre": "Activités numériques et ludiques pour développer le goût de lire",
     "type": "Atelier",
-    "duree": "",
-    "date": "mercredi 16/12/26 - 16h30  (3 autres dates)",
-    "modalite": "En présence, À distance, En direct Niveau : École élémentaire, Collège, Lycée général et technologique ⒼⓃⓅⓈ S'inscrire  Atelier 1 h 30",
-    "niveau": "École élémentaire, Collège, Lycée général et technologique ⒼⓃⓅⓈ S'inscrire  Atelier 1 h 30",
+    "duree": "1h30",
+    "date": "mercredi 16/12/26 - 16h30",
+    "modalite": "En présence, À distance, En direct",
+    "niveau": "École élémentaire, Collège, Lycée général et technologique",
     "difficulte": "",
     "lien": "https://www.reseau-canope.fr/service/activites-numeriques-et-ludiques-pour-developper-le-gout-de-lire",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-26489-469025.png",
@@ -595,10 +665,10 @@
   {
     "titre": "Les étapes clés d’une séance ludopédagogique",
     "type": "Webinaire",
-    "duree": "",
-    "date": "mercredi 16/12/26 - 17h00  (1 autre date)",
-    "modalite": "À distance, En direct Niveau : Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "Tous niveaux ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
+    "duree": "1h30",
+    "date": "mercredi 16/12/26 - 17h00",
+    "modalite": "À distance, En direct",
+    "niveau": "Tous niveaux",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/40628/les-etapes-cles-dune-seance-ludopedagogique",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-40628-674899.png",
@@ -609,10 +679,10 @@
   {
     "titre": "Le sketchnote en classe : des élèves acteurs de leurs apprentissages",
     "type": "Webinaire",
-    "duree": "",
-    "date": "mercredi 16/12/26 - 20h00  (1 autre date)",
-    "modalite": "À distance, En direct Niveau : École élémentaire, Collège ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
-    "niveau": "École élémentaire, Collège ⒼⓃⓅⓈ S'inscrire sur CanoTech Webinaire 1 h 30",
+    "duree": "1h30",
+    "date": "mercredi 16/12/26 - 20h00",
+    "modalite": "À distance, En direct",
+    "niveau": "École élémentaire, Collège",
     "difficulte": "",
     "lien": "https://www.canotech.fr/s/41942/le-sketchnote-en-classe-des-eleves-acteurs-de-leurs-apprentissages",
     "image": "https://cdn.reseau-canope.fr/archivage/valid/vignette-vignette-N-41942-725677.png",
